@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.mp4" alt="GitHub Banner" width="100%" />
 
 # Halo Lurr!, I'm Fidseen Si Wong Gabut 👋🏼:
 🛜 At-Taufiq [webpage](https://bit.ly/attaufiqbogem)<br>👨🏼‍🎓 Masih Bocah Sekolah Yang Gabut-gabut<br>👨🏼‍💻 Mainan Tulisan Gak Jelas Udah dari 2020 <br> <i>FIDSEEN_</i>
